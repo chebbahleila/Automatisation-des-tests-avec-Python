@@ -18,7 +18,7 @@ ecrire quit() puis entrée pour en sortir
 
 ecrire pip puis entrée --> les options de la commande pip s'affichent, c'est qu'il est est bien installer et il est possible d'installer d'autres programmes maintenant.
 
-telecharger Pycharm sur le site https://www.jetbrains.com/pycharm/download/ et prendre la version community
+telecharger Pycharm sur le site https://www.jetbrains.com/pycharm/download/#section=windows et prendre la version community
 
 au moment de l'installation il est possible que le repertoire du fichier python.exe soit demandé.
 
